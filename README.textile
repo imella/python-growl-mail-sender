@@ -1,3 +1,5 @@
 h1. About
 
 p. Just a simple python script to test the Growl Notification API.
+
+p. The only dependency is the Growl Python Binding.
