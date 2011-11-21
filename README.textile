@@ -1,0 +1,3 @@
+h1. About
+
+p. Just a simple python script to test the Growl Notification API.
